@@ -1,0 +1,6 @@
+5
+4 ; 3/1/2016 ; arroz, farinha, massa
+1 ; 4/1/2016 ; sumo, pipocas
+2 ; 4/1/2016 ; arroz, massa, batatas
+3 ; 10/1/2016 ; farinha, pipocas, sumo
+1 ; 1/2/2016 ; arroz, farinha
